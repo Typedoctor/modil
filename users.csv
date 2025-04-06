@@ -1,0 +1,6 @@
+UserID,Name,age,sex,height (cm),weight (kg),Activity_level,Allergens,Diet_Preference,Health_Restriction
+2,ruel,20,male,181,90,lightly,Soy,Gluten-free,Heart
+4,jsmak,23,male,170,60,sedentary,Shellfish,vegetarian,Diabetic
+3,wadoken,40,female,153,54,active,None,None,None
+23,sumileee,12,femalee,120,50,sedentary,"Dairy, Wheat",Pescatarian,None
+1,monay,5,male,140,30,lightly,Fish,Pescatarian,None

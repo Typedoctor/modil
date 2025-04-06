@@ -1,0 +1,21 @@
+﻿food_id,FoodName,food_category,meal_types,Calories,Protein (g),Total Fat (g),Sat.Fat (g),Carbs (g),Fiber (g),Sugars (g),Sodium (mg),Iron (mg),Gluten_Free,Diabetic_Friendly,Heart_Healthy,Obese_Friendly,Anemic_Friendly,Common_Allergens,Diet_Preference
+1,Chicken Tinola,Soup,"Lunch, Dinner",240,24,8,2.5,3,1,1,480,0.9,1,0,1,1,0,None,"Gluten-Free, Low-Sodium"
+2,Pork Sinigang,Soup/Sinigang,"Lunch, Dinner",320,28,18,6,8,2,2,890,1.5,1,0,0,0,0,None,None
+3,Paksiw na Isda,Seafood,"Lunch, Dinner",280,30,12,3,5,0,0,950,1.2,1,0,0,0,0,Fish,"Pescatarian, Gluten-Free"
+4,Chicken Adobo,Meat/Poultry,"Breakfast, Lunch, Dinner",210,25,10,2,4,0,2,820,1,1,0,1,1,0,Soy,Gluten-Free 
+5,Tortang Talong,Eggplant Dish,"Breakfast, Lunch",147,5,9.4,1.6,13,8,6,113,0.9,1,1,1,1,0,Eggs,Gluten-Free
+6,Beef Kare-Kare,Stew,"Lunch, Dinner",523,31,36,12,19,4,5,1200,3.5,0,0,0,0,1,"Peanuts, Shellfish (if with shrimp paste)",None
+7,Pork Bicol Express,Spicy Stew,"Lunch, Dinner",609,37,48.6,23.3,6,0,6,"1,305",2.1,1,0,0,0,0,"Coconut, Pork",None
+8,Kaldereta,Stew,"Lunch, Dinner",191,11,10,3.5,15,2,1,800,2,1,0,0,1,1,"Dairy, Liver",None
+9,Halo-Halo,Dessert,"Snack, Dessert",153,3,6,4,23,1,19,64,0.2,0,0,0,0,0,"Dairy, Peanuts, Gluten (if present)",Vegetarian
+10,Pancit,Noodle Dish,"Lunch, Dinner",313,19,1.9,0.5,55,4,4,"1,709",2.3,0,0,1,0,1,"Wheat, Shellfish (if with shrimp), Soy",None
+11,Turon,Dessert/Snack,"Snack, Dessert",180,2,5,1,25,1,10,20,0.3,0,0,0,0,0,"Wheat, Sugar, Oil",Vegetarian
+12,Fried Chicken,Fried Meat,"Lunch, Dinner",218,21,11.1,3,8,0,0,231,1.1,0,1,0,0,0,"Wheat, Eggs",None
+13,Taho,Soy Dessert,"Breakfast, Snack",89,6,2.4,0.5,13,1,1,9,0.7,1,0,1,1,0,Soy,"Vegetarian, Gluten-Free"
+14,Adobong Sitaw,Vegetable Dish,"Lunch, Dinner",123,10,4.1,1,12,2,8,376,1.2,1,0,1,1,0,Soy,"Vegetarian, Vegan"
+15,Ginataang Sitaw at Kalabasa,Vegetable Stew,"Lunch, Dinner",220,14,15,11,9,1,5,213,1.5,1,0,0,0,0,Coconut,"Vegetarian, Vegan"
+16,Daing na Bangus,Fried Fish,"Breakfast, Lunch",190,24,10,5,0,0,0,500,1.8,1,1,0,1,1,Fish,"Pescatarian, Gluten-Free"
+17,Pinakbet,Vegetable Stew,"Lunch, Dinner",250,5,11,2.9,29,10,1,800,2.5,1,1,1,1,1,Shellfish (if using shrimp paste),Vegetarian
+18,Sisig,Pork Dish,"Appetizer, Main",180,16,10,3,4,0,2,704,1.4,1,1,0,0,1,"Pork, Soy",None
+19,Pancit Canton,Noodle Dish,"Lunch, Dinner",350,29,22,6.2,10,3,3,730,2.9,0,0,0,0,1,"Wheat, Soy, Shellfish (if with shrimp), MSG",None
+20,Ginisang Monggo,Legume Dish,"Lunch, Dinner",232,22,6,0,21,4,0,250,2.5,1,1,1,1,1,None,"Vegetarian, Gluten-Free"
